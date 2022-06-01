@@ -1,6 +1,6 @@
 # HamachiLike
 
-A program that mimics what hamachi does using P2P instead of a block of purchaes IP adresses and managing routing servers.
+A program that mimics what hamachi does using P2P instead of a block of purchased IP adresses and managing routing servers.
 
 Video explination: https://www.youtube.com/watch?v=T84478DITZc
 
