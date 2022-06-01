@@ -2,7 +2,7 @@
 
 A program that mimics what hamachi does using P2P instead of a block of purchased IP adresses and managing routing servers.
 
-Video explination: https://www.youtube.com/watch?v=T84478DITZc
+Video explanation: https://www.youtube.com/watch?v=T84478DITZc
 
 "Final" file is dhcpfinal.c and .h. Most of the other files are learning and testing files.
 
